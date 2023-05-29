@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/add-icon.png</file>
+        <file>images/barchart-icon.png</file>
+        <file>images/chart-icon-color.png</file>
+        <file>images/close-icon.png</file>
+        <file>images/exit-icon.png</file>
+        <file>images/linechart-icon.png</file>
+        <file>images/new-file-icon.png</file>
+        <file>images/open-file-icon.png</file>
+        <file>images/pointchart-icon.png</file>
+        <file>images/remove-icon.png</file>
+        <file>images/symbol-check-icon.png</file>
+        <file>images/save-as-icon.png</file>
+        <file>images/save-icon.png</file>
+    </qresource>
+</RCC>

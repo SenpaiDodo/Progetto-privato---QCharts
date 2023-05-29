@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCharts>
+    <MainTitle>
+        <Title>Control</Title>
+        <Author>Remedy Entertainment</Author>
+        <Publication>2019</Publication>
+        <FixedPrice>29.99</FixedPrice>
+    </MainTitle>
+    <MainTitle>
+        <Title>Kingdom Hearts</Title>
+        <Author>Square Enix</Author>
+        <Publication>2002</Publication>
+        <FixedPrice>9.99</FixedPrice>
+    </MainTitle>
+    <Expansion>
+        <Title>Kingdom Hearts 0.2</Title>
+        <Author> Square Enix</Author>
+        <Publication>2005</Publication>
+        <NumberExpansions>1</NumberExpansions>
+        <ExpansionPrice>5</ExpansionPrice>
+    </Expansion>
+    <MainTitle>
+        <Title>Assassin's Creed Valhalla</Title>
+        <Author> Ubisoft</Author>
+        <Publication>2020</Publication>
+        <FixedPrice>59.99</FixedPrice>
+    </MainTitle>
+    <MainTitle>
+        <Title>Dead Space</Title>
+        <Author>EA</Author>
+        <Publication>2009</Publication>
+        <FixedPrice>12.99</FixedPrice>
+    </MainTitle>
+    <Expansion>
+        <Title>GTA Online</Title>
+        <Author>Rockstar Games</Author>
+        <Publication>2016</Publication>
+        <NumberExpansions>5</NumberExpansions>
+        <ExpansionPrice>15.99</ExpansionPrice>
+    </Expansion>
+    <Expansion>
+        <Title>Waframe</Title>
+        <Author>Digital Extremes</Author>
+        <Publication>2013</Publication>
+        <NumberExpansions>7</NumberExpansions>
+        <ExpansionPrice>8.99</ExpansionPrice>
+    </Expansion>
+</QCharts>
